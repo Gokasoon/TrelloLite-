@@ -11,3 +11,14 @@ The project is organized into the following main directories:
 - `src/Controleur/`: Contains the controller classes responsible for handling user interactions and updating the views.
 - `src/Modele/`: Contains the model classes that represent the data and business logic of the application.
 - `src/Vues/`: Contains the view classes that define the graphical user interface components.
+
+## Features
+
+- **Task Management**: Create, modify, and delete tasks.
+- **List Management**: Add and remove lists of tasks.
+- **User Management**: Manage users and their permissions.
+- **Comments**: Add comments to tasks.
+- **Labels**: Assign labels to tasks for better organization.
+- **Due Dates**: Set start and end dates for tasks.
+- **Task Linking**: Link tasks to other tasks.
+- **Graphical Interface**: User-friendly graphical interface for managing tasks and lists.
