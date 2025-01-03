@@ -1,4 +1,4 @@
-# Project Details
+# Trello Lite Plus
 
 ## Overview
 
